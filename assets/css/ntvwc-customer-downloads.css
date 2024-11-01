@@ -1,0 +1,87 @@
+
+/**
+ * Customer downloads
+**/
+	.ntvwc-popup-customer-purchased-token {
+		position: fixed;
+		display: block;
+		top: 0px;
+		bottom: 0px;
+		left: 0px;
+		right: 0px;
+		background-color: rgba(0,0,0,0.7);
+		z-index: 10000;
+	}
+
+	.ntvwc-popup-customer-purchased-token-inner-wrapper {
+		position: absolute;
+		display: block;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		bottom: 0px;
+		background-color: rgba(255,255,255,1);
+		width: 50%;
+		height: 50%;
+		margin: auto;
+	}
+
+	textarea.ntvwc-textarea-customer-purchased-token {
+		position: absolute;
+		display: block;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		bottom: 0px;
+		width: 50%;
+		height: 40%;
+		margin: auto auto auto 5%;
+		padding: 10px;
+		border: solid 1px #CCCCCC;
+		border-radius: 10px;
+	}
+
+	.ntvwc-copy-close-buttons {
+		position: absolute;
+		display: block;
+		top: 0px;
+		left: 0px;
+		right: 0px;
+		bottom: 0px;
+		width: 35%;
+		height: 50%;
+		margin: auto 5% auto auto;
+	}
+
+	.ntvwc-button {
+		display: inline-block;
+		text-decoration: none;
+		font-size: 13px;
+		line-height: 26px;
+		height: 28px;
+		margin: 0;
+		padding: 0 10px 1px;
+		cursor: pointer;
+		border-width: 1px;
+		border-style: solid;
+		-webkit-appearance: none;
+		border-radius: 3px;
+		white-space: nowrap;
+		box-sizing: border-box;
+	}
+
+		.ntvwc-button.ntvwc-copy-text {
+			position: absolute;
+			top: 5%;
+			bottom: 5%;
+			left: 5%;
+			margin: auto;
+		}
+
+		.ntvwc-button.ntvwc-close-popup {
+			position: absolute;
+			top: 5%;
+			bottom: 5%;
+			right: 5%;
+			margin: auto;
+		}

@@ -1,0 +1,1161 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: NTVWC\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2018-11-26 20:29+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Nora\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: i18n\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:155
+msgid "Validation Token will be expired at"
+msgstr "バリデーショントークンの有効期限"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:181
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:182
+#, php-format
+msgid "Token Validator: %s"
+msgstr "トークンバリデータ：%s"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:258
+msgid "Button is not set."
+msgstr "ボタンがセットされていません。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:267
+msgid "Token name is not set."
+msgstr "トークンの名前がセットされていません。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:275
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:285
+msgid "Token was successfully updated."
+msgstr "トークンが更新されました。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:535
+msgid "Wrong Post Fields"
+msgstr "誤ったポストフィールド"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:555
+msgid "Not Valid data is set."
+msgstr "無効なデータがセットされています。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:572
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:666
+msgid "Invalid Request."
+msgstr "無効なリクエストです。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:654
+msgid "The result is not set."
+msgstr "結果がセットされていません。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:673
+msgid "Server Error."
+msgstr "サーバーエラーです。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:737
+msgid "Token Expiry was successfully updated."
+msgstr "トークンの有効期限が更新されました。"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:2235
+msgid "Once a day"
+msgstr "１日１回"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:31
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:36
+#, php-format
+msgid "This will send a following hashed url to the shop: \"%1$s\""
+msgstr ""
+"これは次のハッシュされたURLをトークン発行元のショップに送信します： 「%1$s」"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:43
+#, php-format
+msgid "%s : Validation Token"
+msgstr "%s：バリデーショントークン"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:59
+msgid "Token will be Expired at:"
+msgstr "トークンの有効期限："
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:66
+msgid "Token has No Expiry."
+msgstr "トークンの有効期限はありません。"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:76
+#, php-format
+msgid "%s : Update Token"
+msgstr "%s： アップデートトークン"
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:90
+#: includes/function/functions-html.php:240
+#: includes/function/functions-html.php:249
+#: includes/function/functions-html.php:292
+#: includes/function/functions-html.php:299
+#: templates/admin-page/parts/settings.php:58
+msgid "Save"
+msgstr "保存"
+
+#: includes/abstract/class-ntvwc-unique-abstract.php:33
+#: includes/class-ntvwc.php:113
+#: includes/notification/class-ntvwc-post-type-notification.php:26
+#: includes/token/class-ntvwc-post-type-token.php:35
+msgid "DO NOT Clone."
+msgstr ""
+
+#: includes/abstract/class-ntvwc-unique-abstract.php:41
+#: includes/class-ntvwc.php:122
+#: includes/notification/class-ntvwc-post-type-notification.php:35
+#: includes/token/class-ntvwc-post-type-token.php:44
+msgid "DO NOT Unserialize"
+msgstr ""
+
+#: includes/admin/class-ntvwc-admin-pages.php:92
+#: includes/admin/class-ntvwc-admin-pages.php:93
+msgid "NTVWC"
+msgstr "NTVWC"
+
+#: includes/admin/class-ntvwc-order-metabox.php:79
+msgid "NTVWC User URL Viewer"
+msgstr "ユーザーURLビュアー"
+
+#: includes/admin/class-ntvwc-product-metabox.php:144
+#: includes/admin/class-ntvwc-product-metabox.php:180
+#, php-format
+msgid ""
+"Validation Token Value was successfully Updated. Please Use this hashed "
+"value \"%1$s\" for the validation."
+msgstr ""
+"バリデーショントークン値が更新されました。バリデーションには、これのハッシュ"
+"値「%1$s」をご利用ください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:273
+#: includes/admin/views/template-purchased-tokens.php:67
+#: includes/admin/views/template-shop-order-token.php:14
+#: includes/class-ntvwc-translatable-texts.php:82
+#: includes/endpoint/views/template-purchased-tokens.php:67
+msgid "Token"
+msgstr "トークン"
+
+#: includes/admin/class-ntvwc-product-metabox.php:274
+msgid ""
+"When purchase is completed, token is going to be generated, which client can "
+"get in token tab in their account page."
+msgstr ""
+"購入が完了した際にトークンが生成されます。これはクライアントがアカウントペー"
+"ジで取得可能です。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:304
+msgid "Token Type"
+msgstr "トークンタイプ"
+
+#: includes/admin/class-ntvwc-product-metabox.php:306
+msgid "Please select \"Validation\" or \"Update\"."
+msgstr "「バリデーション」或いは「アップデート」を選択してください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:308
+#: includes/admin/views/template-purchased-tokens.php:96
+#: includes/endpoint/views/template-purchased-tokens.php:96
+msgid "Validation"
+msgstr "バリデーション"
+
+#: includes/admin/class-ntvwc-product-metabox.php:309
+#: includes/admin/views/template-purchased-tokens.php:107
+#: includes/endpoint/views/template-purchased-tokens.php:107
+msgid "Update"
+msgstr "アップデート"
+
+#: includes/admin/class-ntvwc-product-metabox.php:322
+msgid ""
+"Token value to be evaluated. Please enter unique or setting value that is "
+"expected by client."
+msgstr ""
+"評価されるトークン値です。クライアント側から期待されるユニークな或いは設定値"
+"を入力してください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:323
+msgid "Token Value"
+msgstr "トークン値"
+
+#: includes/admin/class-ntvwc-product-metabox.php:325
+msgid ""
+"Token value to be evaluated. Please enter unique or setting value that is "
+"expected by client. Use this hashed value to be validated with the purchased "
+"token."
+msgstr ""
+"評価されるトークン値です。クライアント側から期待されるユニークな或いは設定値"
+"を入力してください。有効性のチェックには購入されたトークンと一緒に、これの"
+"ハッシュ値をご利用ください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:349
+msgid "Please use the hashed value following for the validation."
+msgstr "バリデーションには次のハッシュ値をご利用ください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:351
+#: includes/class-ntvwc-translatable-texts.php:78
+msgid "Copy"
+msgstr "コピー"
+
+#: includes/admin/class-ntvwc-product-metabox.php:365
+msgid "Validation Token Value"
+msgstr "バリデーショントークンの値"
+
+#: includes/admin/class-ntvwc-product-metabox.php:367
+msgid "Please select validation token value."
+msgstr "バリデーショントークンの値を選択してください。"
+
+#: includes/admin/class-ntvwc-product-metabox.php:384
+msgid "Token Expiry"
+msgstr "トークンの有効期限"
+
+#: includes/admin/class-ntvwc-product-metabox.php:386
+msgid "Token expiry in day."
+msgstr "トークンの有効期限日数です。"
+
+#: includes/admin/file/class-ntvwc-filesystem-methods.php:284
+msgid "Wrong"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:63
+#: includes/endpoint/views/template-purchased-tokens.php:63
+msgid "Product Name"
+msgstr "商品名"
+
+#: includes/admin/views/template-purchased-tokens.php:64
+#: includes/endpoint/views/template-purchased-tokens.php:64
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/admin/views/template-purchased-tokens.php:65
+#: includes/endpoint/views/template-purchased-tokens.php:65
+msgid "Expiry"
+msgstr "有効期限"
+
+#: includes/admin/views/template-purchased-tokens.php:148
+#: includes/endpoint/views/template-purchased-tokens.php:148
+msgid "Get the Token"
+msgstr "トークンを取得"
+
+#: includes/admin/views/template-purchased-tokens.php:183
+#: includes/endpoint/views/template-purchased-tokens.php:183
+msgid "To Shop"
+msgstr "ショップへ"
+
+#: includes/admin/views/template-purchased-tokens.php:185
+#: includes/endpoint/views/template-purchased-tokens.php:185
+msgid "You don't have any available purchased token."
+msgstr "利用可能な購入済みトークンはありません。"
+
+#: includes/admin/views/template-shop-order-token.php:13
+msgid "Product"
+msgstr "商品"
+
+#: includes/admin/views/template-shop-order-token.php:15
+msgid "Number of the purchased product"
+msgstr "購入商品の数"
+
+#: includes/admin/views/template-shop-order-token.php:16
+msgid "Registered hashed URLs"
+msgstr "登録されたURLハッシュ値"
+
+#: includes/class-ntvwc-data-store-loader.php:67
+#: includes/class-ntvwc-data-store-loader.php:73
+#: includes/class-ntvwc-data-store-loader.php:79
+msgid "Invalid data store."
+msgstr "無効なデータストア"
+
+#: includes/class-ntvwc-option-manager.php:222
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#: includes/class-ntvwc-option-manager.php:223
+msgid "Secret Key for Token."
+msgstr "トークン用シークレットキー"
+
+#: includes/class-ntvwc-option-manager.php:520
+#: includes/class-ntvwc-option-manager.php:542
+msgid "No option data."
+msgstr "オプションデータなし"
+
+#: includes/class-ntvwc-token-manager.php:149
+#, php-format
+msgid "%1$s - Your Purchased Tokens"
+msgstr "%1$s：購入されたトークン"
+
+#: includes/class-ntvwc-token-manager.php:216
+msgid "Validation Token has no expiry."
+msgstr "バリデーショントークンの有効期限がありません。"
+
+#: includes/class-ntvwc-token-manager.php:223
+msgid "Update Token is empty."
+msgstr "アップデートトークンが空です。"
+
+#: includes/class-ntvwc-token-manager.php:238
+msgid "Invalidating failed."
+msgstr "無効化の失敗。"
+
+#: includes/class-ntvwc-token-manager.php:298
+#: includes/class-ntvwc-token-manager.php:336
+#: includes/token/class-ntvwc-token-validator.php:362
+msgid "Token is invalid string."
+msgstr "トークンは無効な文字列です。"
+
+#: includes/class-ntvwc-token-manager.php:308
+#: includes/token/class-ntvwc-token-validator.php:372
+msgid "Token is expired."
+msgstr "トークンの有効期限が切れています。"
+
+#: includes/class-ntvwc-token-manager.php:350
+#: includes/class-ntvwc-token-manager.php:355
+#, php-format
+msgid "Error: %s"
+msgstr "エラー：%s"
+
+#: includes/class-ntvwc-token-manager.php:365
+msgid "Value does not match."
+msgstr "値が適合しません。"
+
+#: includes/class-ntvwc-translatable-texts.php:75
+#: templates/admin-page/parts/settings.php:21
+msgid "Token Vendor for WooCommerce"
+msgstr "Token Vendor for WooCommerce"
+
+#: includes/class-ntvwc-translatable-texts.php:79
+msgid "Close"
+msgstr "閉じる"
+
+#: includes/class-ntvwc-translatable-texts.php:83
+msgid "Get a token"
+msgstr "トークンを取得"
+
+#: includes/data/class-ntvwc-data-option.php:99
+msgid "Invalid params: please use a not-empty string for 1st param."
+msgstr "無効なパラメータ：空でないStringを第一パラメータに使用してください。"
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:25
+msgid "Endpoint for the \"Tokens\" page."
+msgstr "「購入済みトークン」ページ用のエンドポイントです。"
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:28
+msgid "Purchased Tokens"
+msgstr "購入済みトークン"
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:81
+msgid "Get the Token."
+msgstr "トークンを取得"
+
+#: includes/function/functions-notice.php:202
+#, php-format
+msgid "Now Here is line %1$d in file \"%2$s\""
+msgstr "Now Here is line %1$d in file “%2$s”"
+
+#: includes/notification/class-ntvwc-mail.php:153
+#: includes/notification/class-ntvwc-mail.php:178
+#, php-format
+msgid "%s - NTVWC: Token is Expired."
+msgstr "%s NTVWC: トークンの有効期限が切れています。"
+
+#: includes/notification/class-ntvwc-mail.php:154
+msgid "Token is Expired."
+msgstr "トークンの有効期限が切れています。"
+
+#: includes/notification/class-ntvwc-mail.php:180
+msgid "Failed."
+msgstr "失敗"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:82
+msgctxt "post type general name"
+msgid "Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:83
+msgctxt "post type singular name"
+msgid "Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:84
+msgctxt "admin menu"
+msgid "Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:85
+msgctxt "add new on admin bar"
+msgid "Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:86
+#: includes/token/class-ntvwc-post-type-token.php:93
+msgctxt "token"
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:87
+msgid "Add New Notification"
+msgstr "新規通知追加"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:88
+msgid "New Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:89
+msgid "Edit Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:90
+msgid "View Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:91
+msgid "All Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:92
+msgid "Search Notifications"
+msgstr "通知を検索"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:93
+msgid "Parent Notifications:"
+msgstr "親通知："
+
+#: includes/notification/class-ntvwc-post-type-notification.php:94
+msgid "No notifications found."
+msgstr "通知が見つかりませんでした。"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:95
+msgid "No notifications found in Trash."
+msgstr "ゴミ箱には通知が見つかりませんでした。"
+
+#: includes/notification/class-ntvwc-post-type-notification.php:100
+#: includes/token/class-ntvwc-post-type-token.php:107
+msgid "Description."
+msgstr "詳細。"
+
+#: includes/order/class-ntvwc-order.php:35
+msgid "Invalid Order."
+msgstr "無効な注文。"
+
+#: includes/order/class-ntvwc-order.php:253
+msgid "Wrong target to be set."
+msgstr "セットされるべきターゲットに誤りがあります。"
+
+#: includes/order/class-ntvwc-order.php:257
+msgid "Wrong target to be deleted."
+msgstr "削除されるべきターゲットに誤りがあります。"
+
+#: includes/order/class-ntvwc-order.php:274
+msgid "Target not found."
+msgstr "ターゲットが見つかりませんでした。"
+
+#: includes/order/class-ntvwc-order.php:739
+msgid "The Latest Token is not found."
+msgstr "最新のトークンが見つかりませんでした。"
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:109
+msgid "Token is not set."
+msgstr "トークンがセットされていません。"
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:191
+msgid "Update Token is invalid."
+msgstr "アップデートトークンが無効です。"
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:248
+#, php-format
+msgid "Error for the update checker version %1$s"
+msgstr "アップデートチェッカーのバージョン「%1$s」でのエラー"
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:289
+msgid "Required param doesn't exist."
+msgstr "要するパラメータが存在しません。"
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:294
+msgid "Data could not be decoded."
+msgstr "データがデコードできませんでした。"
+
+#: includes/token/class-ntvwc-data-token.php:126
+msgid "Wrong ID."
+msgstr "誤ったID"
+
+#: includes/token/class-ntvwc-data-token.php:132
+#, php-format
+msgid "Wrong Post Type: %1$s"
+msgstr "誤った投稿タイプ：%1$s"
+
+#: includes/token/class-ntvwc-data-token.php:164
+msgid "Wrong Order ID."
+msgstr "誤った注文ID"
+
+#: includes/token/class-ntvwc-data-token.php:170
+msgid "Wrong Product ID."
+msgstr "誤った商品ID"
+
+#: includes/token/class-ntvwc-data-token.php:174
+msgid "This is not token product."
+msgstr "これはトークンタイプの商品はありません。"
+
+#: includes/token/class-ntvwc-data-token.php:178
+msgid "Order does not have such a token product."
+msgstr "該当する注文にそのようなトークン商品は存在しません。"
+
+#: includes/token/class-ntvwc-data-token.php:302
+msgid "Wrong Params."
+msgstr "誤ったパラメータ"
+
+#: includes/token/class-ntvwc-data-token.php:426
+msgid "Read Data Error: Invalid ID."
+msgstr "データリードエラー：無効なID"
+
+#: includes/token/class-ntvwc-data-token.php:1137
+#: includes/token/class-ntvwc-data-token.php:1173
+msgid "Wrong Type."
+msgstr "誤ったタイプ"
+
+#: includes/token/class-ntvwc-data-token.php:1151
+msgid "Token ID not found."
+msgstr "トークンIDが見つかりませんでした。"
+
+#: includes/token/class-ntvwc-data-token.php:1156
+msgid "Something wrong to delete the update token."
+msgstr "アップデートトークンを削除するのに、何か誤りがあります。"
+
+#: includes/token/class-ntvwc-post-type-token.php:89
+msgctxt "post type general name"
+msgid "Tokens"
+msgstr "トークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:90
+msgctxt "post type singular name"
+msgid "Token"
+msgstr "トークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:91
+msgctxt "admin menu"
+msgid "Tokens"
+msgstr "トークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:92
+msgctxt "add new on admin bar"
+msgid "Token"
+msgstr "トークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:94
+msgid "Add New Token"
+msgstr "新規追加"
+
+#: includes/token/class-ntvwc-post-type-token.php:95
+msgid "New Token"
+msgstr "新しいトークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:96
+msgid "Edit Token"
+msgstr "トークンを編集"
+
+#: includes/token/class-ntvwc-post-type-token.php:97
+msgid "View Token"
+msgstr "トークンを見る"
+
+#: includes/token/class-ntvwc-post-type-token.php:98
+msgid "All Tokens"
+msgstr "全てのトークン"
+
+#: includes/token/class-ntvwc-post-type-token.php:99
+msgid "Search Tokens"
+msgstr "トークンを検索"
+
+#: includes/token/class-ntvwc-post-type-token.php:100
+msgid "Parent Tokens:"
+msgstr "親トークン："
+
+#: includes/token/class-ntvwc-post-type-token.php:101
+msgid "No tokens found."
+msgstr "トークンが見つかりませんでした。"
+
+#: includes/token/class-ntvwc-post-type-token.php:102
+msgid "No tokens found in Trash."
+msgstr "ゴミ箱にはトークンが見つかりませんでした。"
+
+#: includes/token/class-ntvwc-token-handler.php:210
+msgid "Wrong Order."
+msgstr "誤った注文"
+
+#: includes/token/class-ntvwc-token-handler.php:218
+msgid "Wrong Product."
+msgstr "誤った商品"
+
+#: includes/token/class-ntvwc-token-handler.php:227
+msgid "Wrong Token."
+msgstr "誤ったトークン"
+
+#: includes/token/class-ntvwc-token-handler.php:301
+#: includes/token/class-ntvwc-token-handler.php:365
+msgid "Wrong Token type."
+msgstr "誤ったトークンタイプ"
+
+#: includes/token/class-ntvwc-token-handler.php:307
+msgid "Token is not the latest."
+msgstr "トークンが最新のものではありません。"
+
+#: includes/token/class-ntvwc-token-handler.php:313
+msgid "No need to extend the expiry."
+msgstr "有効期限を延長する必要がありません。"
+
+#: includes/token/class-ntvwc-token-handler.php:320
+msgid "Update Token Handler cannot be initialized."
+msgstr "アップデートトークンハンドラーが初期化できませんでした。"
+
+#: includes/token/class-ntvwc-token-handler.php:416
+#: includes/token/class-ntvwc-token-handler.php:454
+#: includes/token/class-ntvwc-token-handler.php:492
+msgid "Wrong Token Type."
+msgstr "誤ったトークンタイプ"
+
+#: includes/token/class-ntvwc-token-handler.php:423
+msgid "Failed to decrease the number of updated token."
+msgstr "アップデートトークンの数を減らすのに失敗しました。"
+
+#: includes/token/class-ntvwc-token-handler.php:430
+msgid "Failed to delete the updated token."
+msgstr "アップデートトークンの削除に失敗しました。"
+
+#: includes/token/class-ntvwc-token-handler.php:503
+msgid "Failed to cancel the updated validation token."
+msgstr "更新されたバリデーショントークンのキャンセルに失敗しました。"
+
+#: includes/token/class-ntvwc-token-validator.php:80
+msgid "Failed to parse string into Token."
+msgstr "文字列をトークンに解析するのに失敗しました。"
+
+#: includes/token/class-ntvwc-token-validator.php:120
+msgid "Validator : wrong param input \"null\"."
+msgstr "バリデーター：誤ったパラメータの入力「null」"
+
+#: includes/token/class-ntvwc-token-validator.php:156
+#, php-format
+msgid "Validating Token: Result False. %s"
+msgstr "バリデーショントークン：結果失敗。%s"
+
+#: includes/token/class-ntvwc-token-validator.php:165
+#: includes/token/class-ntvwc-token-validator.php:173
+#, php-format
+msgid "Validating Expiry: Result False. %s"
+msgstr "アップデートトークン：結果失敗。%s"
+
+#: includes/token/class-ntvwc-token-validator.php:198
+msgid "This is even not token."
+msgstr "これはトークンでさえありません。"
+
+#: includes/token/class-ntvwc-token-validator.php:231
+msgid "The order doesn't exist."
+msgstr "注文が存在しません。"
+
+#: includes/token/class-ntvwc-token-validator.php:236
+msgid "The order doesn't have any token items."
+msgstr "該当する注文にトークンアイテムが存在しません。"
+
+#: includes/token/class-ntvwc-token-validator.php:244
+msgid "The order doesn't have such a token item."
+msgstr "該当する注文にそのようなトークンアイテムは存在しません。"
+
+#: includes/token/class-ntvwc-token-validator.php:250
+#, php-format
+msgid "Such a %s token is not registered."
+msgstr "そのような%sトークンは登録されていません。"
+
+#: includes/token/class-ntvwc-token-validator.php:314
+#, php-format
+msgid "Token index does not exist in Token. %1$s"
+msgstr "トークンのインデックスが存在しません。%1$s"
+
+#: includes/token/class-ntvwc-token-validator.php:325
+#, php-format
+msgid "Indexed Signer does not exist. %1$s"
+msgstr "インデックスされた署名が存在しません。%1$s"
+
+#: includes/token/class-ntvwc-token-validator.php:345
+msgid "Sign is not valid."
+msgstr "署名が有効ではありません。"
+
+#: includes/token/class-ntvwc-token-validator.php:396
+msgid "Update token is all used."
+msgstr "アップデートトークンは全て使用されています。"
+
+#: templates/admin-page/parts/guide.php:13
+msgid "Introduction"
+msgstr "案内"
+
+#: templates/admin-page/parts/guide.php:16
+msgid "This plugin enables you to sell token products sold by WooCommerce."
+msgstr "WooCommerceによって販売されるトークン商品の販売を可能にします。"
+
+#: templates/admin-page/parts/guide.php:16
+msgid ""
+"By including \"NTVWC Client\" into your package including WP Themes and WP "
+"Plugins, the package validate the token easily."
+msgstr ""
+"「NTVWC クライアント」をWPテーマやWPプラグインといったパッケージにインクルー"
+"ドすることで、パッケージがトークンの有効性を簡単にチェックできます。"
+
+#: templates/admin-page/parts/guide.php:16
+msgid "Please read the how-to below."
+msgstr "以下の方法をお読みください。"
+
+#: templates/admin-page/parts/guide.php:25
+msgid "How to Use"
+msgstr "使い方"
+
+#: templates/admin-page/parts/guide.php:30
+msgid "https://token-vendor.com/how-to-use-our-plugins/"
+msgstr "https://token-vendor.com/ja/how-to-use-our-plugins/"
+
+#: templates/admin-page/parts/guide.php:31
+msgid "Please read how-to in the page below."
+msgstr "ページの下部にある使い方をお読みください。"
+
+#: templates/admin-page/parts/guide.php:33
+msgid "Token Vendor"
+msgstr "Token Vendor"
+
+#: templates/admin-page/parts/guide.php:40
+#, php-format
+msgid ""
+"If your %1$s is not setup yet, go to %2$s and press the button \"Save changes"
+"\"."
+msgstr ""
+"%1$sがまだセットアップされていない場合、%2$sへ行き、「変更を保存」ボタンを押"
+"してください。"
+
+#: templates/admin-page/parts/guide.php:44
+msgid "Purchased Tokens Page"
+msgstr "購入済みトークンページ"
+
+#: templates/admin-page/parts/guide.php:49
+msgid "WooCommerce advance settings page"
+msgstr "WooCommerce高度設定ページ"
+
+#: templates/admin-page/parts/guide.php:52
+msgid ""
+"Just press the button to add the endpoint for purchased tokens to client's "
+"account page."
+msgstr ""
+"ボタンを押すだけで、クライアントのアカウントページに購入済みトークン用のエン"
+"ドポイントを追加できます。"
+
+#: templates/admin-page/parts/guide.php:55
+msgid "Create products in token type."
+msgstr "トークンタイプの商品を作成します。"
+
+#: templates/admin-page/parts/guide.php:56
+msgid ""
+"Validation token requires to be set token value. ( Once you save the value, "
+"password-hashed value will appeaer below the setting field. Use this hashed "
+"value for the validation. )"
+msgstr ""
+"バリデーショントークンはトークンの値を設定することが要求されます。（値を保存"
+"すると、パスワードハッシュされた値が設定項目の下に表示されます。バリデーショ"
+"ンにはこのハッシュ値を使用してください。）"
+
+#: templates/admin-page/parts/guide.php:57
+msgid ""
+"If you want to make it with no expiry, just let the field \"Token Expiry\" "
+"empty."
+msgstr ""
+"有効期限を設定したくない場合、トークンの有効期限の項目を空白にしておきましょ"
+"う。"
+
+#: templates/admin-page/parts/guide.php:58
+msgid ""
+"Funcitonality \"Restrict Access\" is enabled while purchased token is valid."
+msgstr "機能「アクセス制限」は購入したトークンが有効である限り使用可能です。"
+
+#: templates/admin-page/parts/guide.php:59
+msgid ""
+"Update token needs to select validation token value and to set the expiry in "
+"day which is going to extend."
+msgstr ""
+"アップデートトークンには、バリデーショントークンの値を選択し、延長する有効期"
+"限日数を設定する必要があります。"
+
+#: templates/admin-page/parts/guide.php:62
+msgid "Include the Rest API Request methods in your package in proper way."
+msgstr ""
+"あなたのパッケージにRestAPIのリクエストメソッドをインクルードしてください。"
+
+#: templates/admin-page/parts/guide.php:65
+msgid ""
+"If your package is WP Theme or Plugin, download the \"NTVWC Client\" in tool "
+"page and include it."
+msgstr ""
+"ワードプレスのテーマやプラグインの場合、ツールタブにて「NTVWC クライアント」"
+"をダウンロードし、パッケージにインクルードしてください。"
+
+#: templates/admin-page/parts/guide.php:68
+msgid ""
+"For other tools, some request classes are going to be prepared in updates. "
+"Please wait."
+msgstr ""
+"他のツールは、リクエストメソッドクラスなど随時更新により用意していく予定で"
+"す。"
+
+#: templates/admin-page/parts/guide.php:73
+msgid ""
+"* When you sell token products, please notify or indicate your clients to "
+"get the generated token to copy it to the setting page."
+msgstr ""
+"※ トークン商品販売時に、トークンを取得して更新通知の設定ページにコピーするよ"
+"う、お客様にご案内ください。"
+
+#: templates/admin-page/parts/tools.php:6
+#: templates/admin-page/parts/tools.php:13
+msgid "NTVWC Client"
+msgstr "NTVWC クライアント"
+
+#: templates/admin-page/parts/tools.php:18
+msgid "Download"
+msgstr "ダウンロード"
+
+#: templates/admin-page/parts/tools.php:28
+msgid ""
+"Download \"NTVWC Client( file name : ntvwc-client )\" above and include it "
+"in the product package."
+msgstr ""
+"上部の「ntvwc-client」をダウンロードし、商品にインクルードしてください。"
+
+#: templates/admin-page/parts/tools.php:30
+msgid "Example."
+msgstr "例"
+
+#: templates/admin-page/parts/tools.php:47
+msgid ""
+"Like \"path/to/functions.php\" of the theme or \"path/to/plugin-file.php\" "
+"of the plugin."
+msgstr ""
+"例：テーマの「path/to/functions.php」やプラグインの「path/to/plugin-file."
+"php」"
+
+#: templates/admin-page/parts/tools.php:52
+msgid "Textdomain"
+msgstr "テキストドメイン"
+
+#: templates/admin-page/parts/tools.php:57
+msgid "Folder name of the package"
+msgstr "パッケージのフォルダ名"
+
+#: templates/admin-page/parts/tools.php:62
+msgid "URL of WooCommerce site which installed this"
+msgstr "これをインストールしたWooCommerceサイトのURL"
+
+#: templates/admin-page/parts/tools.php:67
+#, php-format
+msgid ""
+"You can get the \"%s\" under the setting field of token value in the product "
+"setting page."
+msgstr ""
+"商品設定ページのトークンフィールドの下で「%s」を取得することが出来ます。"
+
+#: templates/admin-page/template-admin-page.php:10
+msgid "Settings"
+msgstr "設定"
+
+#: templates/admin-page/template-admin-page.php:15
+msgid "Tools"
+msgstr "ツール"
+
+#: templates/admin-page/template-admin-page.php:20
+msgid "Guide"
+msgstr "案内"
+
+#~ msgid "Puchased Tokens"
+#~ msgstr "購入済みトークン"
+
+#~ msgid "Tokens"
+#~ msgstr "トークン"
+
+#~ msgid ""
+#~ "This enables to restrict the accessible referer URL to purchased number."
+#~ msgstr "アクセス可能なURLを制限します。"
+
+#~ msgid "Ristrict Accesses"
+#~ msgstr "アクセス制限"
+
+#~ msgid "Accessible URL number."
+#~ msgstr "アクセス可能URL数"
+
+#~ msgid "Accessible URL Number"
+#~ msgstr "アクセス可能URL数"
+
+#~ msgid "Accessible URL Number."
+#~ msgstr "アクセス可能URL数"
+
+#~ msgid "Ordre does not have a token item."
+#~ msgstr "該当する注文にトークンアイテムが存在しません。"
+
+#~ msgid "User URL is empty."
+#~ msgstr "ユーザーURLが空です。"
+
+#~ msgid "User URL is not valid."
+#~ msgstr "ユーザーURLが有効ではありません。"
+
+#~ msgid "Token is not the object : "
+#~ msgstr "トークンがオブジェクトではありません："
+
+#~ msgid "Package Update Checker for WooCommerce"
+#~ msgstr "Package Update Checker for WooCommerce"
+
+#~ msgid "Validation Token is unlimited."
+#~ msgstr "バリエーショントークンは無制限です。"
+
+#~ msgid ""
+#~ "Enable this option if a product is not shipped or there is no shipping "
+#~ "cost"
+#~ msgstr ""
+#~ "商品が発送されない、或いは配送コストを要さない場合、このオプションが有効と"
+#~ "なります。"
+
+#, fuzzy
+#~| msgid "Required param doesn't exist."
+#~ msgid "Saved data doesn't exist."
+#~ msgstr "要するパラメータが存在しません。"
+
+#~ msgid "Plugin file data is empty or does not have the property \"Version\"."
+#~ msgstr ""
+#~ "プラグインファイルデータが空、もしくは「Version」のプロパティを所有してい"
+#~ "ません。"
+
+#~ msgid "%s Update Checker"
+#~ msgstr "%s アップデートチェッカー"
+
+#~ msgid "%s Settings"
+#~ msgstr "%s 設定"
+
+#~ msgid "Package Type"
+#~ msgstr "パッケージタイプ"
+
+#~ msgid ""
+#~ "Please select \"Theme\" or \"Plugin\" if the package is of WP Theme or "
+#~ "Plugin."
+#~ msgstr ""
+#~ "パッケージがWordPressテーマやプラグインなら、「テーマ」もしくは「プラグイ"
+#~ "ン」を選択してください。"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Theme"
+#~ msgstr "テーマ"
+
+#~ msgid "Plugin"
+#~ msgstr "プラグイン"
+
+#~ msgid "Others"
+#~ msgstr "その他"
+
+#~ msgid "Package Version"
+#~ msgstr "パッケージのバージョン"
+
+#~ msgid "Tested Envirionment Version"
+#~ msgstr "テストされた環境のバージョン"
+
+#~ msgid "Tested Envirionment version."
+#~ msgstr "テストされた環境のバージョンを入力してください。"
+
+#~ msgid "Update expire of the download."
+#~ msgstr "ダウンロードの有効期限の更新"
+
+#~ msgid ""
+#~ "This enables to update the client expires when the content is updated in "
+#~ "shop by the time of client expire. * The updated expire is going to be "
+#~ "\"Date file updated + Extended expire in day\"."
+#~ msgstr ""
+#~ "これは有効期限までに販売元のパッケージが更新されている場合、更新通知を受け"
+#~ "取る際に有効期限も更新させます。更新された有効期限は「ファイル更新日 + 更"
+#~ "新される有効期限日数」となります。"
+
+#~ msgid "Date file updated"
+#~ msgstr "ファイル更新日"
+
+#~ msgid "Date the file is updated."
+#~ msgstr "ファイルが更新された日付"
+
+#~ msgid "Extended expire in day"
+#~ msgstr "更新される有効期限日数"
+
+#~ msgid "JWT"
+#~ msgstr "トークン"
+
+#~ msgid "Package Update Checker"
+#~ msgstr "パッケージアップデートチェッカー"
+
+#~ msgid "Package Update Checker."
+#~ msgstr "パッケージアップデートチェッカー"
+
+#~ msgid "This Plugin"
+#~ msgstr "プラグイン"
+
+#~ msgid "%1$s requires PHP version %2$s. You are currently using %3$s."
+#~ msgstr ""
+#~ "「%1$s」はPHPバージョン「%2$s」を要します。現在「%3$s」を使用しておりま"
+#~ "す。"
+
+#~ msgid "Signer is not valid"
+#~ msgstr "サイン方式が有効ではありません。"
+
+#~ msgid "Current latest version of \"%1$s\" is \"%2$s\"."
+#~ msgstr "現在「%1$s」の最新版は「%2$s」です。"
+
+#~ msgid "Token is expired or is not valid."
+#~ msgstr "トークンの期限が切れているか、有効ではありません。"
+
+#~ msgid "File URL not be found"
+#~ msgstr "ファイルURLが見つかりませんでした。"
+
+#~ msgid ""
+#~ "Then, clients can update the theme or the plugin if the download "
+#~ "permission of the purchase is not expired."
+#~ msgstr ""
+#~ "ダウンロードの有効期限内であれば、クライアントはテーマやプラグインを更新す"
+#~ "ることができます。"
+
+#~ msgid "WP Works"
+#~ msgstr "WPワークス"
+
+#~ msgid ""
+#~ "Package should request the package data, then request the file in a "
+#~ "proper way in order to work with updating service by the shop."
+#~ msgstr ""
+#~ "販売元の更新サービスと上手く連携させるためには、パッケージは所定の方法にて"
+#~ "データをリクエストし、更新パッケージをリクエストする必要があります。"
+
+#~ msgid "Setup the downloadable product of WordPress Theme or Plugin. "
+#~ msgstr "ダウンロード商品の設定をします。"
+
+#~ msgid ""
+#~ "Downloadable file name should be directory name of the theme or the "
+#~ "plugin."
+#~ msgstr ""
+#~ "ダウンロードのファイル名にはパッケージのディレクトリ名でなくてはいけませ"
+#~ "ん。"
+
+#~ msgid ""
+#~ "Set the \"Package Type\", \"Package Version\", \"Tested WP Version\", "
+#~ "\"Update expire of the download\" and \"Restriction of access\"."
+#~ msgstr ""
+#~ "「パッケージタイプ」「パッケージのバージョン」「テストされたワードプレスの"
+#~ "バージョン」「ダウンロードの有効期限の更新」「アクセス制限」を設定してくだ"
+#~ "さい。"
+
+#~ msgid "Complete."
+#~ msgstr "完了。"
+
+#~ msgid "Case the product is WordPress Theme or Plugin"
+#~ msgstr "商品がワードプレスコンテンツの場合"
+
+#~ msgid "Set the secret key, which is optionally used for security."
+#~ msgstr ""
+#~ "シークレットキーを設定してください。セキュリティ用のオプションです。"
+
+#~ msgid "Setup the product. "
+#~ msgstr "商品を設定してください。"
+
+#~ msgid ""
+#~ "Please select \"Theme\" or \"Plugin\" if the package is of WP Theme or "
+#~ "Plugin"
+#~ msgstr ""
+#~ "ダウンロードがWordPressテーマやプラグインなら、「テーマ」もしくは「プラグ"
+#~ "イン」を選択してください。"
+
+#~ msgid ""
+#~ "Please select theme or plugin if the downloadable content is of WP Theme "
+#~ "or Plugin"
+#~ msgstr ""
+#~ "ダウンロードがWordPressテーマやプラグインなら、テーマもしくはプラグインを"
+#~ "選択してください。"
+
+#~ msgid "CSV Import"
+#~ msgstr "CSVインポート"
+
+#~ msgid "File Manager"
+#~ msgstr "ファイルマネージャー"
+
+#~ msgid "Upload Files"
+#~ msgstr "アップロードファイル"
+
+#~ msgid "Just Drop XML/CSV Files in Square."
+#~ msgstr "XML/CSVファイルを四角内にただドロップしてください。"
+
+#~ msgid ""
+#~ "Multibyte or Special Characters in File Name will be fixed by WP Function."
+#~ msgstr ""
+#~ "ファイル名のマルチバイト文字や特殊文字はワードプレスの関数により補正されま"
+#~ "す。"
+
+#~ msgid ""
+#~ "Uploaded Files will be located in \"wp-content/uploads/ntvwc-uploaded-"
+#~ "files\""
+#~ msgstr ""
+#~ "アップロードされるファイルは「\"wp-content/uploads/ntvwc-uploaded-files"
+#~ "\"」に保存されます。"
+
+#~ msgid "Upload"
+#~ msgstr "CSVアップロード"
+
+#~ msgid "Handle Files"
+#~ msgstr "ファイル操作"
+
+#~ msgid "File Name"
+#~ msgstr "ファイル名"
+
+#~ msgid "File Extension"
+#~ msgstr "ファイル拡張子"
+
+#~ msgid "Uploaded Date"
+#~ msgstr "アップロード日時"
+
+#~ msgid "Imported ?"
+#~ msgstr "CSVインポート"
+
+#~ msgctxt "For File Manager Table Row"
+#~ msgid "Imported"
+#~ msgstr "済"
+
+#~ msgctxt "For File Manager Table Row"
+#~ msgid "Not Imported"
+#~ msgstr "未"
+
+#~ msgid "Import Data"
+#~ msgstr "データをインポート"
+
+#~ msgid "Delete Files"
+#~ msgstr "ファイルを削除"
+
+#~ msgid "CSV Headers"
+#~ msgstr "CSVヘッダー"
+
+#~ msgid "Select Data Type"
+#~ msgstr "データタイプを選択"
+
+#~ msgid "Process Import"
+#~ msgstr "インポート開始"
+
+#~ msgid "File Class is NOT Applied."
+#~ msgstr "File クラスが対応していません。"
+
+#, fuzzy
+#~ msgid "Imported"
+#~ msgstr "CSVインポート"

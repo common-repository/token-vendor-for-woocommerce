@@ -1,0 +1,847 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: NTVWC\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2018-11-26 20:29+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Nora\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:155
+msgid "Validation Token will be expired at"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:181
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:182
+#, php-format
+msgid "Token Validator: %s"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:258
+msgid "Button is not set."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:267
+msgid "Token name is not set."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:275
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client-page.php:285
+msgid "Token was successfully updated."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:535
+msgid "Wrong Post Fields"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:555
+msgid "Not Valid data is set."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:572
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:666
+msgid "Invalid Request."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:654
+msgid "The result is not set."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:673
+msgid "Server Error."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:737
+msgid "Token Expiry was successfully updated."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/class/class-ntvwc-client.php:2235
+msgid "Once a day"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:31
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:36
+#, php-format
+msgid "This will send a following hashed url to the shop: \"%1$s\""
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:43
+#, php-format
+msgid "%s : Validation Token"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:59
+msgid "Token will be Expired at:"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:66
+msgid "Token has No Expiry."
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:76
+#, php-format
+msgid "%s : Update Token"
+msgstr ""
+
+#: includes/3rd/ntvwc-client/view/form-ntvwc-client-settings.php:90
+#: includes/function/functions-html.php:240
+#: includes/function/functions-html.php:249
+#: includes/function/functions-html.php:292
+#: includes/function/functions-html.php:299
+#: templates/admin-page/parts/settings.php:58
+msgid "Save"
+msgstr ""
+
+#: includes/abstract/class-ntvwc-unique-abstract.php:33
+#: includes/class-ntvwc.php:113
+#: includes/notification/class-ntvwc-post-type-notification.php:26
+#: includes/token/class-ntvwc-post-type-token.php:35
+msgid "DO NOT Clone."
+msgstr ""
+
+#: includes/abstract/class-ntvwc-unique-abstract.php:41
+#: includes/class-ntvwc.php:122
+#: includes/notification/class-ntvwc-post-type-notification.php:35
+#: includes/token/class-ntvwc-post-type-token.php:44
+msgid "DO NOT Unserialize"
+msgstr ""
+
+#: includes/admin/class-ntvwc-admin-pages.php:92
+#: includes/admin/class-ntvwc-admin-pages.php:93
+msgid "NTVWC"
+msgstr ""
+
+#: includes/admin/class-ntvwc-order-metabox.php:79
+msgid "NTVWC User URL Viewer"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:144
+#: includes/admin/class-ntvwc-product-metabox.php:180
+#, php-format
+msgid ""
+"Validation Token Value was successfully Updated. Please Use this hashed value "
+"\"%1$s\" for the validation."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:273
+#: includes/admin/views/template-purchased-tokens.php:67
+#: includes/admin/views/template-shop-order-token.php:14
+#: includes/class-ntvwc-translatable-texts.php:82
+#: includes/endpoint/views/template-purchased-tokens.php:67
+msgid "Token"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:274
+msgid ""
+"When purchase is completed, token is going to be generated, which client can "
+"get in token tab in their account page."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:304
+msgid "Token Type"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:306
+msgid "Please select \"Validation\" or \"Update\"."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:308
+#: includes/admin/views/template-purchased-tokens.php:96
+#: includes/endpoint/views/template-purchased-tokens.php:96
+msgid "Validation"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:309
+#: includes/admin/views/template-purchased-tokens.php:107
+#: includes/endpoint/views/template-purchased-tokens.php:107
+msgid "Update"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:322
+msgid ""
+"Token value to be evaluated. Please enter unique or setting value that is "
+"expected by client."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:323
+msgid "Token Value"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:325
+msgid ""
+"Token value to be evaluated. Please enter unique or setting value that is "
+"expected by client. Use this hashed value to be validated with the purchased "
+"token."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:349
+msgid "Please use the hashed value following for the validation."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:351
+#: includes/class-ntvwc-translatable-texts.php:78
+msgid "Copy"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:365
+msgid "Validation Token Value"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:367
+msgid "Please select validation token value."
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:384
+msgid "Token Expiry"
+msgstr ""
+
+#: includes/admin/class-ntvwc-product-metabox.php:386
+msgid "Token expiry in day."
+msgstr ""
+
+#: includes/admin/file/class-ntvwc-filesystem-methods.php:284
+msgid "Wrong"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:63
+#: includes/endpoint/views/template-purchased-tokens.php:63
+msgid "Product Name"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:64
+#: includes/endpoint/views/template-purchased-tokens.php:64
+msgid "Type"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:65
+#: includes/endpoint/views/template-purchased-tokens.php:65
+msgid "Expiry"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:148
+#: includes/endpoint/views/template-purchased-tokens.php:148
+msgid "Get the Token"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:183
+#: includes/endpoint/views/template-purchased-tokens.php:183
+msgid "To Shop"
+msgstr ""
+
+#: includes/admin/views/template-purchased-tokens.php:185
+#: includes/endpoint/views/template-purchased-tokens.php:185
+msgid "You don't have any available purchased token."
+msgstr ""
+
+#: includes/admin/views/template-shop-order-token.php:13
+msgid "Product"
+msgstr ""
+
+#: includes/admin/views/template-shop-order-token.php:15
+msgid "Number of the purchased product"
+msgstr ""
+
+#: includes/admin/views/template-shop-order-token.php:16
+msgid "Registered hashed URLs"
+msgstr ""
+
+#: includes/class-ntvwc-data-store-loader.php:67
+#: includes/class-ntvwc-data-store-loader.php:73
+#: includes/class-ntvwc-data-store-loader.php:79
+msgid "Invalid data store."
+msgstr ""
+
+#: includes/class-ntvwc-option-manager.php:222
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class-ntvwc-option-manager.php:223
+msgid "Secret Key for Token."
+msgstr ""
+
+#: includes/class-ntvwc-option-manager.php:520
+#: includes/class-ntvwc-option-manager.php:542
+msgid "No option data."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:149
+#, php-format
+msgid "%1$s - Your Purchased Tokens"
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:216
+msgid "Validation Token has no expiry."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:223
+msgid "Update Token is empty."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:238
+msgid "Invalidating failed."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:298
+#: includes/class-ntvwc-token-manager.php:336
+#: includes/token/class-ntvwc-token-validator.php:362
+msgid "Token is invalid string."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:308
+#: includes/token/class-ntvwc-token-validator.php:372
+msgid "Token is expired."
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:350
+#: includes/class-ntvwc-token-manager.php:355
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: includes/class-ntvwc-token-manager.php:365
+msgid "Value does not match."
+msgstr ""
+
+#: includes/class-ntvwc-translatable-texts.php:75
+#: templates/admin-page/parts/settings.php:21
+msgid "Token Vendor for WooCommerce"
+msgstr ""
+
+#: includes/class-ntvwc-translatable-texts.php:79
+msgid "Close"
+msgstr ""
+
+#: includes/class-ntvwc-translatable-texts.php:83
+msgid "Get a token"
+msgstr ""
+
+#: includes/data/class-ntvwc-data-option.php:99
+msgid "Invalid params: please use a not-empty string for 1st param."
+msgstr ""
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:25
+msgid "Endpoint for the \"Tokens\" page."
+msgstr ""
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:28
+msgid "Purchased Tokens"
+msgstr ""
+
+#: includes/endpoint/class-ntvwc-endpoint-purchased-tokens.php:81
+msgid "Get the Token."
+msgstr ""
+
+#: includes/function/functions-notice.php:202
+#, php-format
+msgid "Now Here is line %1$d in file \"%2$s\""
+msgstr ""
+
+#: includes/notification/class-ntvwc-mail.php:153
+#: includes/notification/class-ntvwc-mail.php:178
+#, php-format
+msgid "%s - NTVWC: Token is Expired."
+msgstr ""
+
+#: includes/notification/class-ntvwc-mail.php:154
+msgid "Token is Expired."
+msgstr ""
+
+#: includes/notification/class-ntvwc-mail.php:180
+msgid "Failed."
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:82
+msgctxt "post type general name"
+msgid "Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:83
+msgctxt "post type singular name"
+msgid "Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:84
+msgctxt "admin menu"
+msgid "Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:85
+msgctxt "add new on admin bar"
+msgid "Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:86
+#: includes/token/class-ntvwc-post-type-token.php:93
+msgctxt "token"
+msgid "Add New"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:87
+msgid "Add New Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:88
+msgid "New Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:89
+msgid "Edit Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:90
+msgid "View Notification"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:91
+msgid "All Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:92
+msgid "Search Notifications"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:93
+msgid "Parent Notifications:"
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:94
+msgid "No notifications found."
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:95
+msgid "No notifications found in Trash."
+msgstr ""
+
+#: includes/notification/class-ntvwc-post-type-notification.php:100
+#: includes/token/class-ntvwc-post-type-token.php:107
+msgid "Description."
+msgstr ""
+
+#: includes/order/class-ntvwc-order.php:35
+msgid "Invalid Order."
+msgstr ""
+
+#: includes/order/class-ntvwc-order.php:253
+msgid "Wrong target to be set."
+msgstr ""
+
+#: includes/order/class-ntvwc-order.php:257
+msgid "Wrong target to be deleted."
+msgstr ""
+
+#: includes/order/class-ntvwc-order.php:274
+msgid "Target not found."
+msgstr ""
+
+#: includes/order/class-ntvwc-order.php:739
+msgid "The Latest Token is not found."
+msgstr ""
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:109
+msgid "Token is not set."
+msgstr ""
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:191
+msgid "Update Token is invalid."
+msgstr ""
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:248
+#, php-format
+msgid "Error for the update checker version %1$s"
+msgstr ""
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:289
+msgid "Required param doesn't exist."
+msgstr ""
+
+#: includes/rest-api/class-ntvwc-rest-api-endpoints-jwt.php:294
+msgid "Data could not be decoded."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:126
+msgid "Wrong ID."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:132
+#, php-format
+msgid "Wrong Post Type: %1$s"
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:164
+msgid "Wrong Order ID."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:170
+msgid "Wrong Product ID."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:174
+msgid "This is not token product."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:178
+msgid "Order does not have such a token product."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:302
+msgid "Wrong Params."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:426
+msgid "Read Data Error: Invalid ID."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:1137
+#: includes/token/class-ntvwc-data-token.php:1173
+msgid "Wrong Type."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:1151
+msgid "Token ID not found."
+msgstr ""
+
+#: includes/token/class-ntvwc-data-token.php:1156
+msgid "Something wrong to delete the update token."
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:89
+msgctxt "post type general name"
+msgid "Tokens"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:90
+msgctxt "post type singular name"
+msgid "Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:91
+msgctxt "admin menu"
+msgid "Tokens"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:92
+msgctxt "add new on admin bar"
+msgid "Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:94
+msgid "Add New Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:95
+msgid "New Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:96
+msgid "Edit Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:97
+msgid "View Token"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:98
+msgid "All Tokens"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:99
+msgid "Search Tokens"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:100
+msgid "Parent Tokens:"
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:101
+msgid "No tokens found."
+msgstr ""
+
+#: includes/token/class-ntvwc-post-type-token.php:102
+msgid "No tokens found in Trash."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:210
+msgid "Wrong Order."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:218
+msgid "Wrong Product."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:227
+msgid "Wrong Token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:301
+#: includes/token/class-ntvwc-token-handler.php:365
+msgid "Wrong Token type."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:307
+msgid "Token is not the latest."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:313
+msgid "No need to extend the expiry."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:320
+msgid "Update Token Handler cannot be initialized."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:416
+#: includes/token/class-ntvwc-token-handler.php:454
+#: includes/token/class-ntvwc-token-handler.php:492
+msgid "Wrong Token Type."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:423
+msgid "Failed to decrease the number of updated token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:430
+msgid "Failed to delete the updated token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-handler.php:503
+msgid "Failed to cancel the updated validation token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:80
+msgid "Failed to parse string into Token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:120
+msgid "Validator : wrong param input \"null\"."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:156
+#, php-format
+msgid "Validating Token: Result False. %s"
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:165
+#: includes/token/class-ntvwc-token-validator.php:173
+#, php-format
+msgid "Validating Expiry: Result False. %s"
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:198
+msgid "This is even not token."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:231
+msgid "The order doesn't exist."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:236
+msgid "The order doesn't have any token items."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:244
+msgid "The order doesn't have such a token item."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:250
+#, php-format
+msgid "Such a %s token is not registered."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:314
+#, php-format
+msgid "Token index does not exist in Token. %1$s"
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:325
+#, php-format
+msgid "Indexed Signer does not exist. %1$s"
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:345
+msgid "Sign is not valid."
+msgstr ""
+
+#: includes/token/class-ntvwc-token-validator.php:396
+msgid "Update token is all used."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:13
+msgid "Introduction"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:16
+msgid "This plugin enables you to sell token products sold by WooCommerce."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:16
+msgid ""
+"By including \"NTVWC Client\" into your package including WP Themes and WP "
+"Plugins, the package validate the token easily."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:16
+msgid "Please read the how-to below."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:25
+msgid "How to Use"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:30
+msgid "https://token-vendor.com/how-to-use-our-plugins/"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:31
+msgid "Please read how-to in the page below."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:33
+msgid "Token Vendor"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:40
+#, php-format
+msgid ""
+"If your %1$s is not setup yet, go to %2$s and press the button \"Save changes"
+"\"."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:44
+msgid "Purchased Tokens Page"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:49
+msgid "WooCommerce advance settings page"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:52
+msgid ""
+"Just press the button to add the endpoint for purchased tokens to client's "
+"account page."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:55
+msgid "Create products in token type."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:56
+msgid ""
+"Validation token requires to be set token value. ( Once you save the value, "
+"password-hashed value will appeaer below the setting field. Use this hashed "
+"value for the validation. )"
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:57
+msgid ""
+"If you want to make it with no expiry, just let the field \"Token Expiry\" "
+"empty."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:58
+msgid ""
+"Funcitonality \"Restrict Access\" is enabled while purchased token is valid."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:59
+msgid ""
+"Update token needs to select validation token value and to set the expiry in "
+"day which is going to extend."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:62
+msgid "Include the Rest API Request methods in your package in proper way."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:65
+msgid ""
+"If your package is WP Theme or Plugin, download the \"NTVWC Client\" in tool "
+"page and include it."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:68
+msgid ""
+"For other tools, some request classes are going to be prepared in updates. "
+"Please wait."
+msgstr ""
+
+#: templates/admin-page/parts/guide.php:73
+msgid ""
+"* When you sell token products, please notify or indicate your clients to get "
+"the generated token to copy it to the setting page."
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:6 templates/admin-page/parts/tools.php:13
+msgid "NTVWC Client"
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:18
+msgid "Download"
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:28
+msgid ""
+"Download \"NTVWC Client( file name : ntvwc-client )\" above and include it in "
+"the product package."
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:30
+msgid "Example."
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:47
+msgid ""
+"Like \"path/to/functions.php\" of the theme or \"path/to/plugin-file.php\" of "
+"the plugin."
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:52
+msgid "Textdomain"
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:57
+msgid "Folder name of the package"
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:62
+msgid "URL of WooCommerce site which installed this"
+msgstr ""
+
+#: templates/admin-page/parts/tools.php:67
+#, php-format
+msgid ""
+"You can get the \"%s\" under the setting field of token value in the product "
+"setting page."
+msgstr ""
+
+#: templates/admin-page/template-admin-page.php:10
+msgid "Settings"
+msgstr ""
+
+#: templates/admin-page/template-admin-page.php:15
+msgid "Tools"
+msgstr ""
+
+#: templates/admin-page/template-admin-page.php:20
+msgid "Guide"
+msgstr ""
